@@ -1,0 +1,3 @@
+com\qa\base\BaseClass.class
+com\qa\pages\NewTest.class
+com\qa\reports\ExtentReporter.class
